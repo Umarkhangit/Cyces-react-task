@@ -1,0 +1,59 @@
+{
+   "movies":[
+        {
+            "movieName":"Leo",
+            "movieLanguage":"Tamil",
+            "showTimings":["10:00 AM","1:00 PM","4:00 PM","7:10 PM","10:15 PM"],
+            "seats":{
+                "sRow":["A","B","C","D","E"],
+                "sColumnn":[1,2,3,4,5],
+                "selected":"No"
+            },
+            "Rate":"180/per seat"
+        },
+        {
+            "movieName":"Jailer",
+            "movieLanguage":"Tamil",
+            "showTimings":["10:00 AM","1:00 PM","4:00 PM","7:10 PM","10:15 PM"],
+            "seats":{
+                "sRow":["A","B","C","D","E"],
+                "sColumnn":[1,2,3,4,5],
+                "selected":"No"
+            },
+            "Rate":"180"
+        },
+        {
+            "movieName":"Manjumal Boys",
+            "movieLanguage":"Malayalam",
+            "showTimings":["10:00 AM","2:00 PM","4:45 PM","7:30 PM","10:35 PM"],
+            "seats":{
+                "sRow":["A","B","C","D","E"],
+                "sColumnn":[1,2,3,4,5],
+                "selected":"No"
+            },
+            "Rate":"180"
+        },
+        {
+            "movieName":"Dunki",
+            "movieLanguage":"Hindi",
+            "showTimings":["10:15 AM","4:00 PM","7:10 PM","10:15 PM"],
+            "seats":{
+                "sRow":["A","B","C","D","E"],
+                "sColumnn":[1,2,3,4,5],
+                "selected":"No"
+            },
+            "Rate":"180"
+        },
+        {
+            "movieName":"The Marvels",
+            "movieLanguage":"English",
+            "showTimings":["9:30 AM","12:30 PM","7:10 PM","10:15 PM"],
+            "seats":{
+                "sRow":["A","B","C","D","E"],
+                "sColumnn":[1,2,3,4,5],
+                "selected":"No"
+            },
+            "Rate":"180"
+        }
+    ]
+}

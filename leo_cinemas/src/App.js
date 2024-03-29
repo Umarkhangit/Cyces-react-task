@@ -1,8 +1,8 @@
 import './App.css';
-import Register from './Components/Register';
 import SignUp from './Components/SignUp';
 import MoviesList from './Components/MoviesList';
 import { Route, Routes } from 'react-router-dom';
+import Booking from './Components/Booking';
 
 function App() {
   return (
@@ -10,9 +10,10 @@ function App() {
 
       <Routes>
         <Route path='/' element={<SignUp/>}/>
-        <Route path='/register' element={<Register/>}/>
         <Route path='/moviesList' element={<MoviesList/>}/>
+        <Route path="/booking" element={<Booking/>}/>
       </Routes>
+
     </div>
   );
 }

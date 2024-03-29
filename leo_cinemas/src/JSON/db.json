@@ -1,0 +1,179 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "movieName": "Leo",
+      "movieLanguage": "Tamil",
+      "movieImage": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXGlpT0dwYk-BwiA5hV5qgwBdIoLrKfilh1cVD2Y37bXovDNi_gn5UR_cUea4TKVm2m1LNHz2Uxvz0de8Aj6Ss0TFQA5i1wDX-8b.jpg?r=dd3",
+      "showTimings": [
+        "10:00 AM",
+        "1:00 PM",
+        "4:00 PM",
+        "7:10 PM",
+        "10:15 PM"
+      ],
+      "seats": {
+        "sRow": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "sColumnn": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "selected": "No"
+      },
+      "rate": "150/per seat"
+    },
+    {
+      "id": 2,
+      "movieName": "Jailer",
+      "movieLanguage": "Tamil",
+      "movieImage": "https://i.ytimg.com/vi/1F3hm6MfR1k/maxresdefault.jpg",
+      "showTimings": [
+        "10:00 AM",
+        "1:00 PM",
+        "4:00 PM",
+        "7:10 PM",
+        "10:15 PM"
+      ],
+      "seats": {
+        "sRow": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "sColumnn": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "selected": "No"
+      },
+      "rate": "180/per seat"
+    },
+    {
+      "id": 3,
+      "movieName": "Manjumal Boys",
+      "movieLanguage": "Malayalam",
+      "movieImage": "https://cdn.gulte.com/wp-content/uploads/2024/02/Manjummel-Boys-review.jpg",
+      "showTimings": [
+        "10:00 AM",
+        "2:00 PM",
+        "4:45 PM",
+        "7:30 PM",
+        "10:35 PM"
+      ],
+      "seats": {
+        "sRow": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "sColumnn": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "selected": "No"
+      },
+      "rate": "180/per seat"
+    },
+    {
+      "id": 4,
+      "movieName": "Dunki",
+      "movieLanguage": "Hindi",
+      "movieImage": "https://content.tupaki.com/en/feeds/2023/12/21/230864-dunki.webp",
+      "showTimings": [
+        "10:15 AM",
+        "4:00 PM",
+        "7:10 PM",
+        "10:15 PM"
+      ],
+      "seats": {
+        "sRow": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "sColumnn": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "selected": "No"
+      },
+      "rate": "180/per seat"
+    },
+    {
+      "id": 5,
+      "movieName": "The Marvels",
+      "movieLanguage": "English",
+      "movieImage": "https://deadline.com/wp-content/uploads/2023/04/the-marvels-movie-trailer.jpg",
+      "showTimings": [
+        "9:30 AM",
+        "12:30 PM",
+        "7:10 PM",
+        "10:15 PM"
+      ],
+      "seats": {
+        "sRow": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "sColumnn": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "selected": "No"
+      },
+      "rate": "220/per seat"
+    }
+  ],
+  "user": [
+    {
+      "id": "fd80",
+      "username": "Prakash",
+      "password": "Prakash@987"
+    },
+    {
+      "id": "4650",
+      "username": "Naveed",
+      "password": "Naveed@1999"
+    },
+    {
+      "id": "7e0e",
+      "username": "Thabrez",
+      "password": "Thabrez@2021"
+    },
+    {
+      "id": "d467",
+      "username": "Rauf",
+      "password": "rauf@123"
+    }
+  ]
+}
